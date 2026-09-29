@@ -1,0 +1,21 @@
+Item_ID,Nombre,Ventas_Mensuales,Precio_Unitario,Categoría
+EL001,Auriculares Inalámbricos,342,29.99,Audio
+EL002,Smartphone Pro Max,72,899.99,Telefonía
+EL003,"Smart TV 55""",27,450.0,Televisión
+EL004,Portátil Gaming,394,1200.0,Computación
+EL005,Reloj Inteligente,155,199.5,Wearables
+EL006,Altavoz Bluetooth,140,45.0,Audio
+EL007,"Tablet 10""",129,250.0,Computación
+EL008,Cámara Deportiva,86,120.0,Fotografía
+EL009,Ratón Inalámbrico,392,15.99,Periféricos
+EL010,Teclado Mecánico,67,85.0,Periféricos
+EL011,"Monitor 27"" 4K",361,320.0,Computación
+EL012,Consola de Videojuegos,394,499.99,Gaming
+EL013,Disco Duro Externo 2TB,294,75.0,Almacenamiento
+EL014,Batería Portátil,59,25.0,Accesorios
+EL015,Auriculares con Cancelación,317,150.0,Audio
+EL016,Router Wi-Fi 6,231,90.0,Redes
+EL017,Impresora Multifunción,31,110.0,Periféricos
+EL018,Lámpara Inteligente,30,22.5,Hogar Inteligente
+EL019,Cámara de Seguridad,62,55.0,Hogar Inteligente
+EL020,Micrófono USB,126,65.0,Audio
